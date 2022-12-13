@@ -3,7 +3,7 @@
 <h3 align="left">A passionate web developer from Italy</h3>
 
 <p align="left">
-- 🌱 I’m currently learning **Aws, Serverless Framework, Typescript, Dart && Flutter**
+- 🌱 I’m currently learning **Aws, Serverless Framework, Typescript, Dart & Flutter**
 </p>
 
 <h3 align="left">Connect with me:</h3>
